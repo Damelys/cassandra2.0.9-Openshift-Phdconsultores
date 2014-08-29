@@ -1,4 +1,3 @@
-cassandra2.0.9-Openshift-Phdconsultores
-=======================================
+The OpenShift `diy` cartridge documentation can be found at:
 
-Instalacion de cassandra en openshift
+https://github.com/openshift/origin-server/tree/master/cartridges/openshift-origin-cartridge-diy/README.md
